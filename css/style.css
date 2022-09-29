@@ -1,0 +1,213 @@
+/* NAVBAR */
+
+#navbar nav
+{
+    background-color: #0f4158;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+/* logo */
+
+.logo img
+{   
+    width: 30%;
+    height: 30%;
+}
+
+/* lien */
+
+.lien ul a
+{
+    color: #fff!important;
+    font-size: 15px;
+    padding-right: 10px;
+}
+
+.pointNavbar
+{
+    font-size: 35px;
+}
+
+
+
+
+
+/* HOME */
+
+#home
+{
+    padding-top: 145px;
+    padding-bottom: 25px;
+}
+
+.titre
+{
+    font-size: 28px;
+}
+
+.titre2
+{
+    font-size: 28px;
+    padding-top: 10px;
+}
+
+/* début du formulaire - partie de gauche */
+
+.debutForm
+{
+    padding-top: 15px;
+}
+
+.labelForm1
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.formInput
+{
+    width: 45.7%;
+}
+
+.labelForm2
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* suite du formulaire - partie de droite */
+
+.overlay
+{
+    background-color: #e7ebf0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    margin-right: 34px;
+    border-radius: 5px;
+}
+
+/* inputs */
+
+.formInput2
+{
+    width: 62%;
+}
+
+.formInput3
+{
+    margin-top: 5px;
+    width: 62%;
+    margin-left: 57px;
+}
+
+.formInput4
+{
+    margin-top: 5px;
+    width: 62%;
+    margin-left: 22px;
+}
+
+/* glyphicon trash */
+
+.overlay .btnTrash
+{
+    float: right;
+    background-color: #fff;
+    border: none;
+    margin-right: 10px;
+}
+
+/* bouton contact */
+
+.addContact
+{
+    background-color: #e7ebf0;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.addContact #glyph
+{
+    color: gray;
+}
+
+/* bouton sauvegarder */
+
+#save
+{
+    color: #fff;
+    background-color: #0f4158;
+    border: none;
+    border-radius: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 100px;
+    margin-right: 32px;
+    float: right;
+}
+
+.messageSucces
+{
+    color: red;
+    font-style: italic;
+    padding-top: 25px;
+}
+
+
+
+
+/* VIEW */
+
+#view
+{
+    padding-top: 145px;
+    padding-bottom: 25px;
+}
+
+/* tableau  */
+
+.titreTableau
+{
+    background-color: #7d7c7c;
+}
+
+.contenuTableau
+{
+    background-color: #f7f8f8;
+}
+
+/* bouton ajouter */
+
+.addClient
+{
+    color: #fff;
+    background-color: #0f4158;
+    border: none;
+    border-radius: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.addClient:hover
+{
+    color: #fff;
+}
+
+
+
+
+
+/* DELETE */
+
+#delete
+{
+    padding-top: 30px;
+}
